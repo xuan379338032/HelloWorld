@@ -1,2 +1,5 @@
 git clone https://github.com/xuan379338032/HelloWorld
+
 git push  and then enter username and password
+warning: LF will be replaced by CRL
+git config --global core.autocrlf false.
