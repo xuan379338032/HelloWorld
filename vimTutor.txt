@@ -1,0 +1,2 @@
+:set number
+vim ~/.vimrc and then add :set number in the end of file
