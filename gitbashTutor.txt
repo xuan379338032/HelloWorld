@@ -1,5 +1,11 @@
 git clone https://github.com/xuan379338032/HelloWorld
 
+git pull 
+git push
+git commit "."        commit all file
+git rm something      rm something 
+
+
 git push  and then enter username and password
 warning: LF will be replaced by CRL
 git config --global core.autocrlf false.
