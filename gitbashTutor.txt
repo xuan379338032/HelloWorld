@@ -27,9 +27,4 @@ git reset --hard HEAD^    back to head level..
 git reset --hard HEAD^ 100  back to 100 ago..
 
 cat gittutor.txt             cat == concatenate connect something..
-
-
-
-
-
-
+git checkout -- gitbashtutor.txt          drop new edit,back to resitory
