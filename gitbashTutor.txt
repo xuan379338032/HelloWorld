@@ -5,7 +5,15 @@ git push
 git commit "."        commit all file
 git rm something      rm something 
 
-
 git push  and then enter username and password
 warning: LF will be replaced by CRL
 git config --global core.autocrlf false.
+
+
+create director.
+git init
+vim readme.txt
+git add readme.txt
+git commit -m "commit readme.txt"
+git status
+git diff readme.txt
