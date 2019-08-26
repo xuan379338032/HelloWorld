@@ -17,3 +17,13 @@ git add readme.txt
 git commit -m "commit readme.txt"
 git status
 git diff readme.txt
+
+git log
+git log gittutor.txt
+git log --pretty=oneline
+
+git reset --hard HEAD^    back to head level..
+git reset --hard HEAD^ 100  back to 100 ago..
+
+cat gittutor.txt             cat == concatenate connect something..
+
