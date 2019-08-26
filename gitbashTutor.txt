@@ -18,6 +18,7 @@ git commit -m "commit readme.txt"
 git status
 git diff readme.txt
 
+<<<<<<< HEAD
 git log
 git log gittutor.txt
 git log --pretty=oneline
@@ -27,3 +28,11 @@ git reset --hard HEAD^ 100  back to 100 ago..
 
 cat gittutor.txt             cat == concatenate connect something..
 
+=======
+
+
+
+
+
+lalalal
+>>>>>>> 525df8d7df485f495bedc014fc38db92c8b4f7d1
